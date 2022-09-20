@@ -10,11 +10,11 @@ Results: Using images and examples of your code, compare the stock performance b
 
 ### Analyzing 2018 (Original Script)
 
-![VBA_Challenge_2018.png](stock-analysis/Resources/VBA_Challenge_2018.png
+![VBA_Challenge_2018.png](stock-analysis/Resources/VBA_Challenge_2018.png)
 
 ### Analyzing 2018 (Refactored)
 
-![VBA_Challenge_2018_Refactored.png](stock-analysis/Resources/VBA_Challenge_2018_Refactored.png
+![VBA_Challenge_2018_Refactored.png](stock-analysis/Resources/VBA_Challenge_2018_Refactored.png)
 
 ## Summary
 Summary: In a summary statement, address the following questions.
